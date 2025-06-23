@@ -3,7 +3,7 @@
 🌱 I’m currently upskilling in Web3 and Fullstack Development  
 💻 I specialize in Salesforce, JavaScript, LWC, and Node.js  
 🔗 I’m building blockchain dApps and Experience Cloud portals  
-📫 Reach me: chinnyjane@gmail.com | https://www.linkedin.com/in.chinnyjane 
+📫 Reach me: chinnyjane@gmail.com | https://www.linkedin.com/in/chinnyjane 
 
 ## 🔧 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
