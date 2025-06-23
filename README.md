@@ -25,3 +25,5 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chinnyjane&show_icons=true&hide=stars&count_private=true&theme=transparent)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername)
+
